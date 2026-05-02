@@ -36,7 +36,7 @@ I am a Tangier-based developer focused on creating **high-contrast, motion-heavy
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=solaymanelkharraz&theme=neon" alt="Detailed Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=solaymanelkharraz&show_icons=true&theme=neon&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
 </div>
 
 ---
