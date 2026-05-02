@@ -28,11 +28,15 @@ I am a Tangier-based developer focused on creating **high-contrast, motion-heavy
 
 ---
 
-### 📊 Professional Metrics
-<!-- Using a high-contrast theme that is more reliable -->
+### 📊 Performance & Activity
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=solaymanelkharraz&show_icons=true&theme=neon&hide_border=true&bg_color=00000000" alt="Soulaymane's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solaymanelkharraz&layout=compact&theme=neon&hide_border=true&bg_color=00000000" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=solaymanelkharraz&theme=neon-palmtree&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=solaymanelkharraz&theme=neon" alt="Detailed Stats" />
 </div>
 
 ---
@@ -40,7 +44,7 @@ I am a Tangier-based developer focused on creating **high-contrast, motion-heavy
 ### 📫 Connect with Me
 <div align="left">
 <a href="mailto:solaymanelkharraz2006@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/solaymanelkharraz"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="www.linkedin.com/in/soulayman-elkharraz-31b66a336"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
 
 ---
