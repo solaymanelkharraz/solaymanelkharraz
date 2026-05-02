@@ -1,40 +1,47 @@
+<div align="center">
+  
 # 👋 Hello, I'm Soulaymane Elkharraz
+### Full-Stack Developer | Building SaaS & Marketplace Solutions 🚀
 
-### Full-Stack Developer | Building Scalable SaaS & Marketplace Solutions 🚀
+<!-- Animated Neon Banner -->
+![Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;React+%26+Laravel+Expert;Building+the+Future+of+SaaS;Turning+Ideas+into+Products)
 
-I am a dedicated Web Developer based in Tangier, Morocco, currently finishing my degree at OFPPT. My focus is on creating high-performance, motion-heavy interfaces with robust backend architectures. I build tools that solve real problems for businesses and communities.
-
----
-
-## 🛠️ Tech Stack & Skills
-
-- **Frontend:** React, JavaScript (ES6+), Tailwind CSS v4
-- **Backend:** PHP (Laravel), Python
-- **Database:** MySQL, MongoDB
-- **Tools:** n8n (AI Automation), Git, Figma
+</div>
 
 ---
 
-## 🚀 Key Projects
+### 💻 About Me
+I am a Tangier-based developer focused on creating **high-contrast, motion-heavy interfaces** with robust backend logic. I build functional products designed to empower my community and provide for my family.
 
-- **SmartInvoice Pro:** A multi-tenant B2B SaaS for automated invoicing with Cloudinary integration.
-- **CampusHub:** A comprehensive school management platform (PFE project).
-- **RihlatBladna:** A modern marketplace platform for Moroccan tourism.
-- **Adify:** A high-speed classifieds platform launching in May 2026.
-
----
-
-## 📊 My Stats & Contributions
-
-![Soulaymane's GitHub stats](https://github-readme-stats.vercel.app/api?username=solaymanelkharraz&show_icons=true&theme=tokyonight)
+- 🔭 **Current Focus:** Launching [Adify](https://github.com/solaymanelkharraz) — a high-speed classifieds platform.
+- 🎓 **Education:** Pursuing my programming degree at OFPPT.
+- 🛠️ **PFE Project:** Currently developing **CampusHub**, a multi-tenant school management system.
 
 ---
 
-## 📫 Let's Connect!
+### 🛠️ Tech Stack & Skills
+| **Frontend** | **Backend** | **Database & Tools** |
+| :--- | :--- | :--- |
+| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) |
+| ![Tailwind](https://img.shields.io/badge/Tailwind_CSS_v4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) |
+| ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) | ![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white) |
 
-- **LinkedIn:** [linkedin.com/in/solaymanelkharraz](https://linkedin.com/in/your-profile-link) 
-- **Email:** solaymanelkharraz2006@gmail.com
-- **Portfolio:** *Coming Soon*
+---
+
+### 📊 Professional Metrics
+<!-- Using a high-contrast theme that is more reliable -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=solaymanelkharraz&show_icons=true&theme=neon&hide_border=true&bg_color=00000000" alt="Soulaymane's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solaymanelkharraz&layout=compact&theme=neon&hide_border=true&bg_color=00000000" alt="Top Languages" />
+</div>
+
+---
+
+### 📫 Connect with Me
+<div align="left">
+<a href="mailto:solaymanelkharraz2006@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/solaymanelkharraz"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</div>
 
 ---
 
