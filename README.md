@@ -15,7 +15,7 @@ I am a Tangier-based developer focused on creating **high-contrast, motion-heavy
 
 - 🔭 **Current Focus:** Launching [Adify](https://github.com/solaymanelkharraz) — a high-speed classifieds platform.
 - 🎓 **Education:** Pursuing my programming degree at OFPPT.
-- 🛠️ **PFE Project:** Currently developing **CampusHub**, a multi-tenant school management system.
+- 🛠️ **PFE Project:** Currently developing **Smart invoice pro si-pro**, a multi-tenant school management system.
 
 ---
 
