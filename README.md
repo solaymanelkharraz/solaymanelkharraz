@@ -13,7 +13,7 @@
 ### 💻 About Me
 I am a Tangier-based developer focused on creating **high-contrast, motion-heavy interfaces** with robust backend logic. I build functional products designed to empower my community and provide for my family.
 
-- 🔭 Current Focus: Architecting ALL IN — a tri-discipline creative tech studio engineering web platforms, digital utilities, and heavyweight apparel.
+- 🔭 Current Focus: Launching ALL IN — bridging computational systems and tactile drops from Tangier, Morocco.
 - 🎓 **Education:** Pursuing my programming degree at OFPPT.
 - 🛠️ **PFE Project:** Currently developing **Smart invoice pro si-pro**, a multi-tenant school management system.
 
