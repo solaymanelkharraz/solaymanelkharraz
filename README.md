@@ -13,7 +13,7 @@
 ### 💻 About Me
 I am a Tangier-based developer focused on creating **high-contrast, motion-heavy interfaces** with robust backend logic. I build functional products designed to empower my community and provide for my family.
 
-- 🔭 **Current Focus:** Launching [Adify](https://github.com/solaymanelkharraz) — a high-speed classifieds platform.
+- 🔭 **Current Focus:** Launching [ALL IN](https://github.com/thealnbrand/all-in-web) — a high-speed classifieds platform.
 - 🎓 **Education:** Pursuing my programming degree at OFPPT.
 - 🛠️ **PFE Project:** Currently developing **Smart invoice pro si-pro**, a multi-tenant school management system.
 
